@@ -1,0 +1,6 @@
+{
+  "name": "Informational Interview Accelerator",
+  "description": "Structured relationship-building and informational interview orchestration platform based on Steve Dalton's 2-Hour Job Search framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
